@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import "./Content.css";
 export function Content(props) {
     const { darabszam } = props;
     
@@ -16,8 +17,9 @@ export function Content(props) {
         return p;
     };
     return (
-        <div id="content">
+        <div id="content" className="first-content">
             {bekezdesek()}
+            <hr />
         </div>
     )
 }

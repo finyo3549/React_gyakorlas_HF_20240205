@@ -7,6 +7,7 @@ function Header() {
         <h1 className="first-header">
             {headertext}      
         </h1>
+        <hr />
         </header>
     )
 }

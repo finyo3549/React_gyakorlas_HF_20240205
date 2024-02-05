@@ -1,0 +1,10 @@
+.first-footer {
+    text-align: left;
+    background-color: darkcyan;
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+       
+}
