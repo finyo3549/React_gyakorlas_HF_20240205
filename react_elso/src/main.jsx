@@ -7,7 +7,7 @@ import './index.css';
 
 
 const sajatNev = 'Tari Attila';
-const link = "https://github.com/finyo3549/React_gyakorlas_HF_20240205.git";
+const link = "https://github.com/finyo3549/tariattila_react-elso.git";
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     
